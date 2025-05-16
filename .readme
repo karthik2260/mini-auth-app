@@ -1,0 +1,14 @@
+This project is a simple user authentication system built with Node.js, Express, and MongoDB. It allows users to sign up and log in securely using hashed passwords with bcrypt. The views are rendered using EJS templates.
+
+Features:
+
+User registration with secure password hashing (bcrypt)
+
+User login authentication
+
+Session management (optional if you added it)
+
+Redirects to a protected home page upon successful login
+
+Data stored in MongoDB via Mongoose
+
